@@ -3,7 +3,7 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 #
-LOCAL_PATH := device/generic/vendor_boot_a
+LOCAL_PATH := device/generic/boot_a
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true

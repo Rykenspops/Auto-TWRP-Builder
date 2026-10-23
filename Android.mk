@@ -5,7 +5,7 @@
 #
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),vendor_boot_a)
+ifeq ($(TARGET_DEVICE),boot_a)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 endif
 

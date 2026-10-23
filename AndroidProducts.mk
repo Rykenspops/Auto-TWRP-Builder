@@ -4,10 +4,10 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_vendor_boot_a.mk
+    $(LOCAL_DIR)/omni_boot_a.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_vendor_boot_a-user \
-    omni_vendor_boot_a-userdebug \
-    omni_vendor_boot_a-eng
+    omni_boot_a-user \
+    omni_boot_a-userdebug \
+    omni_boot_a-eng
 
